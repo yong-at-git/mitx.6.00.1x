@@ -5,34 +5,35 @@ class GuessNumber:
 
     @staticmethod
     def guess():
-        low = 0
-        high = 100
-        guess = (low + high) // 2
+        lower_bound_inclusive = 0
+        upper_bound_exclusive = 100
+        guess = (lower_bound_inclusive + upper_bound_exclusive) // 2
 
-        feedback = ''
+        user_feedback = ''
 
         print("Please think of a number between 0 and 100!")
-        while feedback != 'c':
+
+        while user_feedback != 'c':
             print("Is your secret number %d?" % guess)
-            feedback = input(
+            user_feedback = input(
                 "Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. "
                 "Enter 'c' to indicate I guessed correctly.")
-            while len(feedback) != 1 or feedback not in 'hlc':
+            while len(user_feedback) != 1 or user_feedback not in 'hlc':
                 print('Sorry, I did not understand your input.')
                 print("Is your secret number %d?" % guess)
-                feedback = input(
+                user_feedback = input(
                     "Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. "
                     "Enter 'c' to indicate I guessed correctly.")
 
-            if feedback == 'l':
-                low = guess
-            elif feedback == 'h':
-                high = guess
+            if user_feedback == 'l':
+                lower_bound_inclusive = guess
+            elif user_feedback == 'h':
+                upper_bound_exclusive = guess
             else:
                 print("Game over. Your secret number was: %d" % guess)
                 break
 
-            guess = (low + high) // 2
+            guess = (lower_bound_inclusive + upper_bound_exclusive) // 2
 
 
 if __name__ == "__main__":

@@ -2,13 +2,15 @@
 Just run any random piece of code
 """
 
-x = 25
+x = 23
 epsilon = 0.01
 step = 0.1
 guess = 0.0
 
 while guess <= x:
-    if abs(guess**2 - x) < epsilon:
+    diff = abs(guess**2 - x)
+    print('diff: ' + str(diff))
+    if diff < epsilon:
         print(guess)
         break
     else:
