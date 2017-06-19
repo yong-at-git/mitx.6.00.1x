@@ -1,7 +1,3 @@
-"""
-Just run any random piece of code
-"""
-
 low = 0
 high = 100
 

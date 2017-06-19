@@ -7,7 +7,7 @@ class W1P3Solution:
         s_len = len(s)
         current_len = len(s)
 
-        # applying guess-and-check stragegy
+        # applying guess-and-check strategy
         # starting from the longest string and decrease it gradually
         while current_len > 0:
             start_idx = 0
