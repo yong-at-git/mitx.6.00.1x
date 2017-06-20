@@ -28,3 +28,4 @@ class TestW2P1Solution(TestCase):
         """
         result = W2P1Solution.calc_annual_balance(484, 0.2, 0.04)
         self.assertEqual(361.61, result)
+
