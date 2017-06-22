@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="565312f3-b67a-4857-b721-3b24ed108708" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2_simple_programs/tests/test_resursive_is_in.py" />
+    <list default="true" id="565312f3-b67a-4857-b721-3b24ed108708" name="Default" comment="Recursively check if a character is in a string.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2_simple_programs/solution/polysum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2_simple_programs/tests/test_polysum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mitx.6.00.1x.iws" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="p3_pay_debt_bisection_search.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/p3_pay_debt_bisection_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
+            <state relative-caret-position="900">
               <caret line="60" column="48" lean-forward="false" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
               <folding />
             </state>
@@ -49,17 +49,39 @@
         <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_resursive_is_in.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_resursive_is_in.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_resursive_is_in.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="polysum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/polysum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="113" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="113" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_polysum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_polysum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -113,28 +135,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p1_pay_debt_itr.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/p1_pay_debt_itr.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="24" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_w2P1Solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_w2P1Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -177,6 +177,8 @@
         <option value="$PROJECT_DIR$/w2_simple_programs/solution/p3_pay_debt_bisection_search.py" />
         <option value="$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py" />
         <option value="$PROJECT_DIR$/w2_simple_programs/tests/test_resursive_is_in.py" />
+        <option value="$PROJECT_DIR$/w2_simple_programs/solution/polysum.py" />
+        <option value="$PROJECT_DIR$/w2_simple_programs/tests/test_polysum.py" />
       </list>
     </option>
   </component>
@@ -200,6 +202,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -297,7 +300,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_resursive_is_in.TestIs_in">
+  <component name="RunManager" selected="Python tests.py.test for test_polysum.TestPolysum">
     <configuration default="false" name="py.test in test_W2P3Solution.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,22 +342,6 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/w2_simple_programs/tests/test_W2P3Solution.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w2_simple_programs/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
     <configuration default="false" name="py.test for test_W2P3Solution.TestW2P3Solution" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -403,6 +389,22 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_resursive_is_in.TestIs_in&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_polysum.TestPolysum" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w2_simple_programs/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_polysum.TestPolysum&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -504,18 +506,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_polysum.TestPolysum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_polysum.TestPolysum" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -580,16 +582,17 @@
       <option name="project" value="LOCAL" />
       <updated>1498079388501</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Recursively check if a character is in a string.">
+      <created>1498144353327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1498144353327</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_W2P3Solution_TestCalc_minimum_monthly_payment_bisection_search_test_calc_minimum_monthly_payment_bisection_search_case_1 - 2017.06.21 at 22h 25m 30s.xml">
-      <configuration name="py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution - 2017.06.21 at 22h 26m 40s.xml">
-      <configuration name="py.test for test_W2P3Solution.TestW2P3Solution" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution - 2017.06.21 at 22h 55m 28s.xml">
       <configuration name="py.test for test_W2P3Solution.TestW2P3Solution" configurationId="tests" />
     </history-entry>
@@ -608,6 +611,12 @@
     <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution_test_calc_minimum_monthly_payment_bisection_search_v2_case_2 - 2017.06.21 at 22h 54m 42s.xml">
       <configuration name="py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_for_test_polysum_TestPolysum - 2017.06.23 at 00h 01m 21s.xml">
+      <configuration name="py.test for test_polysum.TestPolysum" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_polysum_TestPolysum - 2017.06.23 at 00h 02m 24s.xml">
+      <configuration name="py.test for test_polysum.TestPolysum" configurationId="tests" />
+    </history-entry>
     <history-entry file="py_test_for_test_resursive_is_in_TestIs_in - 2017.06.22 at 17h 11m 50s.xml">
       <configuration name="py.test for test_resursive_is_in.TestIs_in" configurationId="tests" />
     </history-entry>
@@ -618,11 +627,11 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18884121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19098713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25421688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19156626" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19156626" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42891565" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.386747" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -673,27 +682,14 @@
     <MESSAGE value="Add w2 p1 solution, i.e. annual balance calculation." />
     <MESSAGE value="Add w2 p2 solution, i.e. annual balance calculation with fixed monthly payment." />
     <MESSAGE value="Add w2 p3 solution, i.e. annual balance calculation with fixed monthly payment, with bisection search." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add w2 p3 solution, i.e. annual balance calculation with fixed monthly payment, with bisection search." />
+    <MESSAGE value="Recursively check if a character is in a string." />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursively check if a character is in a string." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/w2_simple_programs/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w1_python_basics/tests/test_w1P2Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -705,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -932,7 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1017,7 +1011,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/p3_pay_debt_bisection_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
+        <state relative-caret-position="900">
           <caret line="60" column="48" lean-forward="false" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
           <folding />
         </state>
@@ -1026,7 +1020,7 @@
     <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -1038,6 +1032,24 @@
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_polysum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/polysum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="113" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="113" />
+          <folding />
         </state>
       </provider>
     </entry>
