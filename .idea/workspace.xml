@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565312f3-b67a-4857-b721-3b24ed108708" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2_simple_programs/solution/p3_pay_debt_bisection_search.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2_simple_programs/tests/test_W2P3Solution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w2_simple_programs/tests/test_resursive_is_in.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mitx.6.00.1x.iws" />
@@ -25,27 +25,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="just_run.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/just_run/just_run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="p2_pay_debt_fixed_montly_pay.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/p2_pay_debt_fixed_montly_pay.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
+            <state relative-caret-position="510">
               <caret line="34" column="50" lean-forward="false" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p3_pay_debt_bisection_search.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="p3_pay_debt_bisection_search.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/p3_pay_debt_bisection_search.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="166">
@@ -55,10 +45,32 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="recursive_check_char_in_str.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_resursive_is_in.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_resursive_is_in.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="test_W2P3Solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_W2P3Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="45">
               <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -163,6 +175,8 @@
         <option value="$PROJECT_DIR$/w2_simple_programs/solution/test_calc_minimum_monthly_payment_bisection_search_v2.py" />
         <option value="$PROJECT_DIR$/w2_simple_programs/tests/test_W2P3Solution.py" />
         <option value="$PROJECT_DIR$/w2_simple_programs/solution/p3_pay_debt_bisection_search.py" />
+        <option value="$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py" />
+        <option value="$PROJECT_DIR$/w2_simple_programs/tests/test_resursive_is_in.py" />
       </list>
     </option>
   </component>
@@ -186,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -282,7 +297,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -311,23 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_W2P3Solution.py">
-    <configuration default="false" name="py.test for test_w2P2Solution.TestW2P2Solution" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w2_simple_programs/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_w2P2Solution.TestW2P2Solution&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test for test_resursive_is_in.TestIs_in">
     <configuration default="false" name="py.test in test_W2P3Solution.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -389,6 +387,22 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_resursive_is_in.TestIs_in" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w2_simple_programs/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_resursive_is_in.TestIs_in&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -489,19 +503,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_w2P2Solution.TestW2P2Solution" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_w2P2Solution.TestW2P2Solution" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -559,13 +573,17 @@
       <option name="project" value="LOCAL" />
       <updated>1497991419261</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add w2 p3 solution, i.e. annual balance calculation with fixed monthly payment, with bisection search.">
+      <created>1498079388501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1498079388501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_W2P3Solution_TestCalc_minimum_monthly_payment_bisection_search_test_calc_minimum_monthly_payment_bisection_search_case_1 - 2017.06.21 at 22h 21m 53s.xml">
-      <configuration name="py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_for_test_W2P3Solution_TestCalc_minimum_monthly_payment_bisection_search_test_calc_minimum_monthly_payment_bisection_search_case_1 - 2017.06.21 at 22h 25m 30s.xml">
       <configuration name="py.test for test_W2P3Solution.TestCalc_minimum_monthly_payment_bisection_search.test_calc_minimum_monthly_payment_bisection_search_case_1" configurationId="tests" />
     </history-entry>
@@ -590,6 +608,9 @@
     <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution_test_calc_minimum_monthly_payment_bisection_search_v2_case_2 - 2017.06.21 at 22h 54m 42s.xml">
       <configuration name="py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_for_test_resursive_is_in_TestIs_in - 2017.06.22 at 17h 11m 50s.xml">
+      <configuration name="py.test for test_resursive_is_in.TestIs_in" configurationId="tests" />
+    </history-entry>
     <history-entry file="py_test_in_test_W2P3Solution_py - 2017.06.21 at 23h 05m 21s.xml">
       <configuration name="py.test in test_W2P3Solution.py" configurationId="tests" />
     </history-entry>
@@ -597,7 +618,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18669528" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18884121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25421688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -651,27 +672,14 @@
     <MESSAGE value="Finger exercise on a number guess game." />
     <MESSAGE value="Add w2 p1 solution, i.e. annual balance calculation." />
     <MESSAGE value="Add w2 p2 solution, i.e. annual balance calculation with fixed monthly payment." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add w2 p2 solution, i.e. annual balance calculation with fixed monthly payment." />
+    <MESSAGE value="Add w2 p3 solution, i.e. annual balance calculation with fixed monthly payment, with bisection search." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add w2 p3 solution, i.e. annual balance calculation with fixed monthly payment, with bisection search." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/just_run/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_guessNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w2_simple_programs/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -909,7 +917,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,7 +924,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -992,23 +998,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/p2_pay_debt_fixed_montly_pay.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="510">
           <caret line="34" column="50" lean-forward="false" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/test_calc_minimum_monthly_payment_bisection_search_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/test_calc_minimum_monthly_payment_bisection_search_v2.py" />
     <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_W2P3Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="45">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -1021,6 +1020,24 @@
         <state relative-caret-position="166">
           <caret line="60" column="48" lean-forward="false" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_resursive_is_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
