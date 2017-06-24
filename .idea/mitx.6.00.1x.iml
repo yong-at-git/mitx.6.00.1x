@@ -5,6 +5,8 @@
       <sourceFolder url="file://$MODULE_DIR$/w1_python_basics" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/w2_simple_programs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/w2_simple_programs/solution" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/w3_structured_types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/w3_structured_types/solution" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6.0 (~/anaconda/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
