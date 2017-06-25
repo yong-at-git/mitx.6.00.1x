@@ -9,7 +9,7 @@
 
 import random
 
-WORDLIST_FILENAME = "words.txt"
+WORDLIST_FILENAME = "/Users/yong/code/mitx.6.00.1x/w3_structured_types/solution/words.txt"
 
 def loadWords():
     """
@@ -82,10 +82,9 @@ def getAvailableLetters(lettersGuessed):
     '''
     from string import ascii_lowercase
 
-    available_letters = ''
-    for letter in ascii_lowercase:
-        if letter not in lettersGuessed:
-            available_letters += letter
+    available_letters = ascii_lowercase[:]
+    for letter in lettersGuessed:
+        available_letters = available_letters.replace(letter, '')
 
     return available_letters
     

@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565312f3-b67a-4857-b721-3b24ed108708" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3_structured_types/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3_structured_types/solution/fib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3_structured_types/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3_structured_types/tests/test_fib.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mitx.6.00.1x.iml" afterPath="$PROJECT_DIR$/.idea/mitx.6.00.1x.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w2_simple_programs/solution/polysum.py" afterPath="$PROJECT_DIR$/w2_simple_programs/solution/polysum.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py" afterPath="$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py" />
     </list>
     <ignored path="mitx.6.00.1x.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="w2_simple_programs/tests/.cache/v/cache/lastfailed" />
+    <ignored path="w3_structured_types/tests/.cache/v/cache/lastfailed" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,109 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p2_pay_debt_fixed_montly_pay.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/p2_pay_debt_fixed_montly_pay.py">
+      <file leaf-file-name="ps3_hangman.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="50" lean-forward="false" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+            <state relative-caret-position="165">
+              <caret line="11" column="89" lean-forward="false" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p3_pay_debt_bisection_search.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/p3_pay_debt_bisection_search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="48" lean-forward="false" selection-start-line="60" selection-start-column="48" selection-end-line="60" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recursive_check_char_in_str.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/recursive_check_char_in_str.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_resursive_is_in.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_resursive_is_in.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="polysum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/polysum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fib.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/fib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_fib.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_fib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_polysum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_polysum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_W2P3Solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_W2P3Solution.py">
+      <file leaf-file-name="test_Hangman.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_w2P2Solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_w2P2Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -185,6 +94,8 @@
         <option value="$PROJECT_DIR$/w2_simple_programs/solution/polysum.py" />
         <option value="$PROJECT_DIR$/w3_structured_types/tests/test_fib.py" />
         <option value="$PROJECT_DIR$/w3_structured_types/solution/fib.py" />
+        <option value="$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py" />
+        <option value="$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py" />
       </list>
     </option>
   </component>
@@ -347,39 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_fib.TestFib">
-    <configuration default="false" name="py.test in test_W2P3Solution.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w2_simple_programs/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/w2_simple_programs/tests/test_W2P3Solution.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test for test_W2P3Solution.TestW2P3Solution" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w2_simple_programs/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_W2P3Solution.TestW2P3Solution&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test for test_Hangman.TestHangman">
     <configuration default="false" name="py.test for test_resursive_is_in.TestIs_in" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -425,6 +304,40 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_fib.TestFib&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ps3_hangman" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3_structured_types/solution" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_Hangman.TestHangman" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3_structured_types/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Hangman.TestHangman&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -525,19 +438,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_polysum.TestPolysum" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_fib.TestFib" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_polysum.TestPolysum" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_fib.TestFib" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ps3_hangman" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_Hangman.TestHangman" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_fib.TestFib" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_polysum.TestPolysum" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_W2P3Solution.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_W2P3Solution.TestW2P3Solution" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_Hangman.TestHangman" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ps3_hangman" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_fib.TestFib" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_polysum.TestPolysum" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -616,18 +529,40 @@
       <option name="project" value="LOCAL" />
       <updated>1498168997329</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add originally downloaded sample code from the course site.">
+      <created>1498329951335</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1498329951335</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Impl the isGuessed() helper function.">
+      <created>1498330204038</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1498330204038</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Impl the getGuessedWord() helper function.">
+      <created>1498330536926</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1498330536926</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Impl the getAvailableLetters() helper function.">
+      <created>1498330883462</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1498330883462</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution - 2017.06.21 at 22h 57m 08s.xml">
-      <configuration name="py.test for test_W2P3Solution.TestW2P3Solution" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution - 2017.06.21 at 23h 00m 45s.xml">
-      <configuration name="py.test for test_W2P3Solution.TestW2P3Solution" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution_test_calc_minimum_monthly_payment_bisection_search_v2_case_2 - 2017.06.21 at 22h 54m 37s.xml">
-      <configuration name="py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" configurationId="tests" />
+    <history-entry file="py_test_for_test_Hangman_TestHangman - 2017.06.25 at 15h 08m 32s.xml">
+      <configuration name="py.test for test_Hangman.TestHangman" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution_test_calc_minimum_monthly_payment_bisection_search_v2_case_2 - 2017.06.21 at 22h 54m 42s.xml">
       <configuration name="py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" configurationId="tests" />
@@ -636,6 +571,12 @@
       <configuration name="py.test for test_fib.TestFib" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_for_test_fib_TestFib - 2017.06.24 at 19h 32m 56s.xml">
+      <configuration name="py.test for test_fib.TestFib" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_fib_TestFib - 2017.06.24 at 19h 34m 06s.xml">
+      <configuration name="py.test for test_fib.TestFib" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_fib_TestFib - 2017.06.24 at 19h 34m 16s.xml">
       <configuration name="py.test for test_fib.TestFib" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_for_test_polysum_TestPolysum - 2017.06.23 at 00h 01m 21s.xml">
@@ -655,12 +596,12 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19098713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22460657" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25421688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19156626" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25421688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36746988" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42891565" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.386747" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -712,27 +653,17 @@
     <MESSAGE value="Add w2 p3 solution, i.e. annual balance calculation with fixed monthly payment, with bisection search." />
     <MESSAGE value="Recursively check if a character is in a string." />
     <MESSAGE value="Calculate the sum of the area and square of the perimeter of the regular polygon, rounded to 4 decimal places." />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculate the sum of the area and square of the perimeter of the regular polygon, rounded to 4 decimal places." />
+    <MESSAGE value="Add originally downloaded sample code from the course site." />
+    <MESSAGE value="Impl the isGuessed() helper function." />
+    <MESSAGE value="Impl the getGuessedWord() helper function." />
+    <MESSAGE value="Impl the getAvailableLetters() helper function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Impl the getAvailableLetters() helper function." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/w2_simple_programs/solution/guess_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="70" lean-forward="false" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/just_run/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/test_guessNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -972,7 +903,7 @@
         <state relative-caret-position="60">
           <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -990,7 +921,7 @@
         <state relative-caret-position="120">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1000,7 +931,7 @@
         <state relative-caret-position="45">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1019,7 +950,7 @@
         <state relative-caret-position="45">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1045,7 +976,7 @@
         <state relative-caret-position="60">
           <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1055,7 +986,7 @@
         <state relative-caret-position="180">
           <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1068,20 +999,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/fib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_fib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/fib.py">
+    <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        <state relative-caret-position="165">
+          <caret line="11" column="89" lean-forward="false" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
           <folding />
         </state>
       </provider>
