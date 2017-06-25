@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565312f3-b67a-4857-b721-3b24ed108708" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py" afterPath="$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py" />
     </list>
     <ignored path="mitx.6.00.1x.iws" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="ps3_hangman.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="89" lean-forward="false" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+            <state relative-caret-position="60">
+              <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="164" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -40,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -258,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for test_Hangman.TestHangman">
+  <component name="RunManager" selected="Python.ps3_hangman">
     <configuration default="false" name="py.test for test_resursive_is_in.TestIs_in" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -446,8 +444,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_Hangman.TestHangman" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ps3_hangman" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ps3_hangman" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_Hangman.TestHangman" />
         <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_fib.TestFib" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_polysum.TestPolysum" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_resursive_is_in.TestIs_in" />
@@ -564,8 +562,11 @@
     <history-entry file="py_test_for_test_Hangman_TestHangman - 2017.06.25 at 15h 08m 32s.xml">
       <configuration name="py.test for test_Hangman.TestHangman" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_test_W2P3Solution_TestW2P3Solution_test_calc_minimum_monthly_payment_bisection_search_v2_case_2 - 2017.06.21 at 22h 54m 42s.xml">
-      <configuration name="py.test for test_W2P3Solution.TestW2P3Solution.test_calc_minimum_monthly_payment_bisection_search_v2_case_2" configurationId="tests" />
+    <history-entry file="py_test_for_test_Hangman_TestHangman - 2017.06.25 at 15h 10m 11s.xml">
+      <configuration name="py.test for test_Hangman.TestHangman" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_Hangman_TestHangman - 2017.06.25 at 15h 10m 18s.xml">
+      <configuration name="py.test for test_Hangman.TestHangman" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_for_test_fib_TestFib - 2017.06.24 at 19h 30m 12s.xml">
       <configuration name="py.test for test_fib.TestFib" configurationId="tests" />
@@ -584,9 +585,6 @@
     </history-entry>
     <history-entry file="py_test_for_test_polysum_TestPolysum - 2017.06.23 at 00h 02m 24s.xml">
       <configuration name="py.test for test_polysum.TestPolysum" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_test_resursive_is_in_TestIs_in - 2017.06.22 at 17h 11m 50s.xml">
-      <configuration name="py.test for test_resursive_is_in.TestIs_in" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_test_W2P3Solution_py - 2017.06.21 at 23h 05m 21s.xml">
       <configuration name="py.test in test_W2P3Solution.py" configurationId="tests" />
@@ -1020,7 +1018,7 @@
     <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -1029,8 +1027,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="89" lean-forward="false" selection-start-line="11" selection-start-column="89" selection-end-line="11" selection-end-column="89" />
+        <state relative-caret-position="60">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="164" selection-end-column="15" />
           <folding />
         </state>
       </provider>
