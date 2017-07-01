@@ -33,4 +33,24 @@ def print_without_vowels(s):
     return s_copy
 
 
+def largest_odd_times(L):
+    """ Assumes L is a non-empty list of ints
+        Returns the largest element of L that occurs an odd number
+        of times in L. If no such element exists, returns None """
+    map_to_occurrences = {}
+    for i in L:
+        if i in map_to_occurrences:
+            map_to_occurrences[i] = map_to_occurrences[i] + 1
+        else:
+            map_to_occurrences[i] = 1
 
+    keys_odd_occurrences = []
+
+    for j in map_to_occurrences:
+        if map_to_occurrences[j] % 2 != 0:
+            keys_odd_occurrences.append(j)
+
+    if len(keys_odd_occurrences) == 0:
+        return None
+
+    return max(keys_odd_occurrences)
