@@ -54,3 +54,21 @@ class TestMidTerm(TestCase):
 
     def test_largest_odd_times_5(self):
         self.assertEqual(2, midterm_solution.largest_odd_times([3, 3, 2, 0]))
+
+    #
+    # test dict_invert
+    #
+    def test_dict_invert_1(self):
+        dict = {1: 10, 2: 20, 3: 30}
+        expected = {10: [1], 20: [2], 30: [3]}
+        self.assertEqual(expected, midterm_solution.dict_invert(dict))
+
+    def test_dict_invert_2(self):
+        dict = {1: 10, 2: 20, 3: 30, 4: 30}
+        expected = {10: [1], 20: [2], 30: [3, 4]}
+        self.assertEqual(expected, midterm_solution.dict_invert(dict))
+
+    def test_dict_invert_3(self):
+        dict = {4: True, 2: True, 0: True}
+        expected = {True: [0, 2, 4]}
+        self.assertEqual(expected, midterm_solution.dict_invert(dict))
