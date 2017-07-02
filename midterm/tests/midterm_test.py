@@ -59,16 +59,31 @@ class TestMidTerm(TestCase):
     # test dict_invert
     #
     def test_dict_invert_1(self):
-        dict = {1: 10, 2: 20, 3: 30}
+        a_dict = {1: 10, 2: 20, 3: 30}
         expected = {10: [1], 20: [2], 30: [3]}
-        self.assertEqual(expected, midterm_solution.dict_invert(dict))
+        self.assertEqual(expected, midterm_solution.dict_invert(a_dict))
 
     def test_dict_invert_2(self):
-        dict = {1: 10, 2: 20, 3: 30, 4: 30}
+        a_dict = {1: 10, 2: 20, 3: 30, 4: 30}
         expected = {10: [1], 20: [2], 30: [3, 4]}
-        self.assertEqual(expected, midterm_solution.dict_invert(dict))
+        self.assertEqual(expected, midterm_solution.dict_invert(a_dict))
 
     def test_dict_invert_3(self):
-        dict = {4: True, 2: True, 0: True}
+        a_dict = {4: True, 2: True, 0: True}
         expected = {True: [0, 2, 4]}
-        self.assertEqual(expected, midterm_solution.dict_invert(dict))
+        self.assertEqual(expected, midterm_solution.dict_invert(a_dict))
+
+    #
+    # test general_poly
+    #
+    def test_general_poly_base_ten(self):
+        l = [1, 2, 3, 4]
+        base = 10
+        expected = 1234
+        self.assertEqual(expected, midterm_solution.general_poly(l)(base))
+
+    def test_general_poly_base_2(self):
+        l = [1, 2]
+        base = 2
+        expected = 4
+        self.assertEqual(expected, midterm_solution.general_poly(l)(base))

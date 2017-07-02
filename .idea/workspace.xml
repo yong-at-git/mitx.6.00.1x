@@ -40,8 +40,8 @@
       <file leaf-file-name="midterm_solution.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/midterm/solution/midterm_solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="71" selection-end-column="22" />
+            <state relative-caret-position="688">
+              <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,8 +50,8 @@
       <file leaf-file-name="midterm_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/midterm/tests/midterm_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="1260">
+              <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -237,23 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for midterm_test.TestMidTerm">
-    <configuration default="false" name="py.test for test_fib.TestFib" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3_structured_types/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_fib.TestFib&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2">
     <configuration default="false" name="ps3_hangman" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,22 +254,6 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test for test_Hangman.TestHangman" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3_structured_types/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Hangman.TestHangman&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
     <configuration default="false" name="py.test for midterm_test.TestMidTerm.test_is_triangular" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -317,6 +285,38 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;midterm_test.TestMidTerm&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for midterm_test.TestMidTerm.test_general_poly" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midterm/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;midterm_test.TestMidTerm.test_general_poly&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for midterm_test.TestMidTerm.test_general_poly_base_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midterm/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;midterm_test.TestMidTerm.test_general_poly_base_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -417,19 +417,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_fib.TestFib" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ps3_hangman" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_Hangman.TestHangman" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_is_triangular" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ps3_hangman" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_is_triangular" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_is_triangular" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ps3_hangman" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_Hangman.TestHangman" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_fib.TestFib" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_is_triangular" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ps3_hangman" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -557,16 +557,17 @@
       <option name="project" value="LOCAL" />
       <updated>1498927957691</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Impl revert_dict.">
+      <created>1499001257763</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1499001257763</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 21m 43s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 25m 26s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 35m 59s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
     </history-entry>
@@ -590,6 +591,12 @@
     </history-entry>
     <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 13m 22s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_midterm_test_TestMidTerm_test_general_poly - 2017.07.02 at 15h 29m 45s.xml">
+      <configuration name="py.test for midterm_test.TestMidTerm.test_general_poly" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_midterm_test_TestMidTerm_test_general_poly_base_2 - 2017.07.02 at 15h 31m 36s.xml">
+      <configuration name="py.test for midterm_test.TestMidTerm.test_general_poly_base_2" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -659,7 +666,8 @@
     <MESSAGE value="Check if an number is triangular" />
     <MESSAGE value="Return string by removing vowel characters." />
     <MESSAGE value="Impl largest_odd_times." />
-    <option name="LAST_COMMIT_MESSAGE" value="Impl largest_odd_times." />
+    <MESSAGE value="Impl revert_dict." />
+    <option name="LAST_COMMIT_MESSAGE" value="Impl revert_dict." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -997,8 +1005,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/midterm/tests/midterm_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="1260">
+          <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -1007,8 +1015,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/midterm/solution/midterm_solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="71" selection-end-column="22" />
+        <state relative-caret-position="688">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -62,7 +62,7 @@ def dict_invert(d):
     Returns an inverted dictionary according to the instructions above
     """
     invert_dict = {}
-    for k,v in d.items():
+    for k, v in d.items():
         if v in invert_dict:
             invert_dict[v].append(k)
             invert_dict[v].sort()
@@ -70,3 +70,20 @@ def dict_invert(d):
             invert_dict[v] = [k]
 
     return invert_dict
+
+
+def general_poly(L):
+    """ L, a list of numbers (n0, n1, n2, ... nk)
+    Returns a function, which when applied to a value x, returns the value
+    n0 * x^k + n1 * x^(k-1) + ... nk * x^0 """
+
+    def poly(base):
+        num = 0
+        power_idx = len(L)
+        for n in L:
+            num += n * (base ** (power_idx - 1))
+            power_idx -= 1
+        return num
+
+    return poly
+
