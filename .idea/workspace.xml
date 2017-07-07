@@ -6,11 +6,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/ps4b.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/test_ps4a.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/words.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mitx.6.00.1x.iml" afterPath="$PROJECT_DIR$/.idea/mitx.6.00.1x.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/just_run/just_run.py" afterPath="$PROJECT_DIR$/just_run/just_run.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/midterm/solution/midterm_solution.py" afterPath="$PROJECT_DIR$/midterm/solution/midterm_solution.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/midterm/tests/midterm_test.py" afterPath="$PROJECT_DIR$/midterm/tests/midterm_test.py" />
     </list>
     <ignored path="mitx.6.00.1x.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -598,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499002463127</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Impl is_list_permutation.">
+      <created>1499454158889</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1499454158889</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -702,7 +706,8 @@
     <MESSAGE value="Impl largest_odd_times." />
     <MESSAGE value="Impl revert_dict." />
     <MESSAGE value="Impl general_poly." />
-    <option name="LAST_COMMIT_MESSAGE" value="Impl general_poly." />
+    <MESSAGE value="Impl is_list_permutation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Impl is_list_permutation." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
