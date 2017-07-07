@@ -87,3 +87,36 @@ class TestMidTerm(TestCase):
         base = 2
         expected = 4
         self.assertEqual(expected, midterm_solution.general_poly(l)(base))
+
+    #
+    # test is_list_permutation
+    #
+    def test_is_list_permutation_1(self):
+        l1 = ['a', 'a', 'b']
+        l2 = ['a', 'b']
+        expected = False
+        self.assertEqual(expected, midterm_solution.is_list_permutation(l1, l2))
+
+    def test_is_list_permutation_2(self):
+        l1 = [1, 'b', 1, 'c', 'c', 1]
+        l2 = ['c', 1, 'b', 1, 1, 'c']
+        expected = (1, 3, type(0))
+        self.assertEqual(expected, midterm_solution.is_list_permutation(l1, l2))
+
+    def test_is_list_permutation_3(self):
+        l1 = []
+        l2 = []
+        expected = (None, None, None)
+        self.assertEqual(expected, midterm_solution.is_list_permutation(l1, l2))
+
+    def test_is_list_permutation_3(self):
+        l1 = [1, 2, 1]
+        l2 = [2, 1, 2]
+        expected = False
+        self.assertEqual(expected, midterm_solution.is_list_permutation(l1, l2))
+
+    def test_is_list_permutation_4(self):
+        l1 = [0, 4, 8, 3, 0, 2, 2, 1, 4, 7, 8, 3, 7, 0, 0]
+        l2 = [3, 4, 0, 3, 8, 0, 2, 0, 7, 2, 0, 3, 7, 2, 1]
+        expected = False
+        self.assertEqual(expected, midterm_solution.is_list_permutation(l1, l2))

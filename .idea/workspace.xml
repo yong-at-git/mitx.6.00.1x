@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565312f3-b67a-4857-b721-3b24ed108708" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/ps4a.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/ps4b.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/test_ps4a.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/words.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mitx.6.00.1x.iml" afterPath="$PROJECT_DIR$/.idea/mitx.6.00.1x.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/just_run/just_run.py" afterPath="$PROJECT_DIR$/just_run/just_run.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/midterm/solution/midterm_solution.py" afterPath="$PROJECT_DIR$/midterm/solution/midterm_solution.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/midterm/tests/midterm_test.py" afterPath="$PROJECT_DIR$/midterm/tests/midterm_test.py" />
     </list>
@@ -30,18 +36,50 @@
       <file leaf-file-name="ps3_hangman.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="1815">
               <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="midterm_solution.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="midterm_solution.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/midterm/solution/midterm_solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <state relative-caret-position="1350">
+              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="123" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="just_run.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/just_run/just_run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ps4a.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/ps4a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding>
+                <element signature="e#22#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="words.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/words.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,8 +88,8 @@
       <file leaf-file-name="midterm_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/midterm/tests/midterm_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+            <state relative-caret-position="45">
+              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -62,7 +100,7 @@
       <file leaf-file-name="test_Hangman.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="30">
               <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -79,6 +117,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,7 +142,6 @@
         <option value="$PROJECT_DIR$/w2_simple_programs/solution/guess_number.py" />
         <option value="$PROJECT_DIR$/w1_python_basics/solution/p1_vowel_counting.py" />
         <option value="$PROJECT_DIR$/w1_python_basics/solution/p3_longest_ordered_sub_str.py" />
-        <option value="$PROJECT_DIR$/just_run/just_run.py" />
         <option value="$PROJECT_DIR$/w2_simple_programs/solution/guess_number_v2.py" />
         <option value="$PROJECT_DIR$/w1_python_basics/tests/test_w1P1Solution.py" />
         <option value="$PROJECT_DIR$/w2_simple_programs/solution/p1_pay_debt_itr.py" />
@@ -119,14 +161,17 @@
         <option value="$PROJECT_DIR$/w3_structured_types/solution/fib.py" />
         <option value="$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py" />
         <option value="$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py" />
-        <option value="$PROJECT_DIR$/midterm/tests/midterm_test.py" />
         <option value="$PROJECT_DIR$/midterm/solution/midterm_solution.py" />
+        <option value="$PROJECT_DIR$/midterm/tests/midterm_test.py" />
+        <option value="$PROJECT_DIR$/just_run/just_run.py" />
+        <option value="$PROJECT_DIR$/w4_good_programming_practices/solution/ps4a.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -144,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,18 +201,8 @@
               <option name="myItemId" value="mitx.6.00.1x" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mitx.6.00.1x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mitx.6.00.1x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="midterm" />
+              <option name="myItemId" value="w4_good_programming_practices" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -180,25 +216,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="midterm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mitx.6.00.1x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mitx.6.00.1x" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="midterm" />
+              <option name="myItemId" value="w4_good_programming_practices" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -206,23 +224,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitx.6.00.1x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitx.6.00.1x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/w1_python_basics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/w4_good_programming_practices/solution" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,41 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2">
-    <configuration default="false" name="ps3_hangman" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3_structured_types/solution" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test for midterm_test.TestMidTerm.test_is_triangular" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midterm/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;midterm_test.TestMidTerm.test_is_triangular&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in test_ps4a.py">
     <configuration default="false" name="py.test for midterm_test.TestMidTerm" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,6 +311,40 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;midterm_test.TestMidTerm.test_general_poly_base_2&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="just_run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/just_run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/just_run/just_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test_ps4a.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w4_good_programming_practices/solution" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/w4_good_programming_practices/solution/test_ps4a.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -417,19 +444,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ps3_hangman" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_is_triangular" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.just_run" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_ps4a.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_ps4a.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.just_run" />
         <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_is_triangular" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ps3_hangman" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -564,50 +591,56 @@
       <option name="project" value="LOCAL" />
       <updated>1499001257763</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Impl general_poly.">
+      <created>1499002463127</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1499002463127</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 35m 59s.xml">
+    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 53m 43s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 46m 41s.xml">
+    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 56m 43s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 48m 02s.xml">
+    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 56m 54s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 49m 13s.xml">
+    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 03m 20s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 51m 12s.xml">
+    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 05m 29s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.01 at 18h 51m 19s.xml">
+    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 06m 05s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 11m 34s.xml">
+    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 06m 42s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 13m 22s.xml">
+    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 08m 08s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm_test_general_poly - 2017.07.02 at 15h 29m 45s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm.test_general_poly" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_for_midterm_test_TestMidTerm_test_general_poly_base_2 - 2017.07.02 at 15h 31m 36s.xml">
       <configuration name="py.test for midterm_test.TestMidTerm.test_general_poly_base_2" configurationId="tests" />
     </history-entry>
+    <history-entry file="py_test_in_test_ps4a_py - 2017.07.07 at 20h 54m 11s.xml">
+      <configuration name="py.test in test_ps4a.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2274678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2360515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45783132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36746988" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25480154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36619717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42891565" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.386747" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -617,6 +650,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -667,27 +701,14 @@
     <MESSAGE value="Return string by removing vowel characters." />
     <MESSAGE value="Impl largest_odd_times." />
     <MESSAGE value="Impl revert_dict." />
-    <option name="LAST_COMMIT_MESSAGE" value="Impl revert_dict." />
+    <MESSAGE value="Impl general_poly." />
+    <option name="LAST_COMMIT_MESSAGE" value="Impl general_poly." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/w2_simple_programs/tests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1_python_basics/tests/test_w1P2Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../moocs-algorithms-1/assignment-1-inversions/tests/test_inversion_counter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -865,13 +886,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/just_run/just_run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w1_python_basics/tests/test_w1P3Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -987,7 +1001,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="1815">
           <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
           <folding />
         </state>
@@ -995,7 +1009,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="30">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -1005,8 +1019,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/midterm/tests/midterm_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+        <state relative-caret-position="45">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -1015,9 +1029,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/midterm/solution/midterm_solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state relative-caret-position="1350">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="123" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_run/just_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/ps4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

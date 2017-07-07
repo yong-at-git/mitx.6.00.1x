@@ -87,3 +87,38 @@ def general_poly(L):
 
     return poly
 
+
+def is_list_permutation(L1, L2):
+    """
+    L1 and L2: lists containing integers and strings
+    Returns False if L1 and L2 are not permutations of each other.
+            If they are permutations of each other, returns a
+            tuple of 3 items in this order:
+            the element occurring most, how many times it occurs, and its type
+    """
+    def map_to_occurrence(l):
+        dict_occurrence = {}
+        for elem in l:
+            if elem in dict_occurrence:
+                dict_occurrence[elem] = dict_occurrence[elem] + 1
+            else:
+                dict_occurrence[elem] = 1
+        return dict_occurrence
+
+    if len(L1) == 0 and len(L2) == 0:
+        return None, None, None
+
+    if len(L1) != len(L2):
+        return False
+
+    dict_occurrence_l1 = map_to_occurrence(L1)
+    dict_occurrence_l2 = map_to_occurrence(L2)
+
+    if dict_occurrence_l2 != dict_occurrence_l1:
+        return False
+
+    max_occurrence = max(dict_occurrence_l1.values())
+
+    for k, v in dict_occurrence_l1.items():
+        if v == max_occurrence:
+            return k, v, type(k)
