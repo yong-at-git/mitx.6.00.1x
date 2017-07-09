@@ -13,6 +13,9 @@
       <sourceFolder url="file://$MODULE_DIR$/w4_good_programming_practices" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/w4_good_programming_practices/solution" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/w4_good_programming_practices/tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/w5_oop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/w5_oop/solutions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/w5_oop/tests" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6.0 (~/anaconda/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

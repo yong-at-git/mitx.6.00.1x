@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="565312f3-b67a-4857-b721-3b24ed108708" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/ps4a.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/ps4b.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/test_ps4a.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w4_good_programming_practices/solution/words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w5_oop/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w5_oop/solutions/ps6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w5_oop/solutions/story.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w5_oop/solutions/words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/w5_oop/tests/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/mitx.6.00.1x.iml" afterPath="$PROJECT_DIR$/.idea/mitx.6.00.1x.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/just_run/just_run.py" afterPath="$PROJECT_DIR$/just_run/just_run.py" />
     </list>
@@ -30,26 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ps3_hangman.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w3_structured_types/solution/ps3_hangman.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1815">
-              <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="midterm_solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/midterm/solution/midterm_solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="123" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="just_run.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/just_run/just_run.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ps4a.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ps4a.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/ps4a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="14">
+              <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="189" selection-end-column="27" />
               <folding>
                 <element signature="e#22#35#0" expanded="true" />
               </folding>
@@ -72,8 +54,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="words.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/words.txt">
+      <file leaf-file-name="ps4b.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/ps4b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="124" column="27" lean-forward="false" selection-start-line="124" selection-start-column="27" selection-end-line="124" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntSet.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w5_oop/solutions/IntSet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="63" lean-forward="false" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hand.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w5_oop/solutions/hand.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10">
+              <caret line="37" column="28" lean-forward="false" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeNumGenerator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w5_oop/solutions/PrimeNumGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ps6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/w5_oop/solutions/ps6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="story.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w5_oop/solutions/story.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -82,23 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="midterm_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/midterm/tests/midterm_test.py">
+      <file leaf-file-name="test_gen_primes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/w5_oop/tests/test_gen_primes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_Hangman.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/w3_structured_types/tests/test_Hangman.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="435">
+              <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -116,6 +138,10 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>updateHand</find>
+      <find>index</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -162,6 +188,12 @@
         <option value="$PROJECT_DIR$/midterm/tests/midterm_test.py" />
         <option value="$PROJECT_DIR$/just_run/just_run.py" />
         <option value="$PROJECT_DIR$/w4_good_programming_practices/solution/ps4a.py" />
+        <option value="$PROJECT_DIR$/w4_good_programming_practices/solution/ps4b.py" />
+        <option value="$PROJECT_DIR$/w5_oop/solutions/IntSet.py" />
+        <option value="$PROJECT_DIR$/w5_oop/solutions/hand.py" />
+        <option value="$PROJECT_DIR$/w5_oop/solutions/PrimeNumGenerator.py" />
+        <option value="$PROJECT_DIR$/w5_oop/tests/test_gen_primes.py" />
+        <option value="$PROJECT_DIR$/w5_oop/solutions/ps6.py" />
       </list>
     </option>
   </component>
@@ -189,6 +221,56 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitx.6.00.1x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitx.6.00.1x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="w5_oop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitx.6.00.1x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitx.6.00.1x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="w5_oop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitx.6.00.1x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mitx.6.00.1x" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="w5_oop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="mitx.6.00.1x" />
@@ -245,6 +327,7 @@
       <recent name="$PROJECT_DIR$/w1_python_basics" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/w5_oop/solutions" />
       <recent name="$PROJECT_DIR$/w4_good_programming_practices/solution" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -261,74 +344,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_ps4a.py">
-    <configuration default="false" name="py.test for midterm_test.TestMidTerm" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midterm/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;midterm_test.TestMidTerm&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test for midterm_test.TestMidTerm.test_general_poly" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midterm/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;midterm_test.TestMidTerm.test_general_poly&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test for midterm_test.TestMidTerm.test_general_poly_base_2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midterm/tests" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;midterm_test.TestMidTerm.test_general_poly_base_2&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="just_run" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/just_run" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mitx.6.00.1x" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/just_run/just_run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in test_ps4a.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.py.test for test_gen_primes.TestGenPrimes.test_gen_primes_997">
+    <configuration default="false" name="py.test for test_ps4a.test_getWordScore" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -340,8 +357,72 @@
       <module name="mitx.6.00.1x" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/w4_good_programming_practices/solution/test_ps4a.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_ps4a.test_getWordScore&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_gen_primes.TestGen_primes_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w5_oop/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_gen_primes.TestGen_primes_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_gen_primes.TestGenPrimes" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w5_oop/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_gen_primes.TestGenPrimes&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_gen_primes.TestGenPrimes.test_gen_primes_5" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w5_oop/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_gen_primes.TestGenPrimes.test_gen_primes_5&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_gen_primes.TestGenPrimes.test_gen_primes_997" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w5_oop/tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mitx.6.00.1x" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_gen_primes.TestGenPrimes.test_gen_primes_997&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -441,19 +522,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.just_run" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_ps4a.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_ps4a.test_getWordScore" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_gen_primes.TestGen_primes_1" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_gen_primes.TestGenPrimes" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_gen_primes.TestGenPrimes.test_gen_primes_5" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_gen_primes.TestGenPrimes.test_gen_primes_997" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_ps4a.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.just_run" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly_base_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for midterm_test.TestMidTerm.test_general_poly" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_gen_primes.TestGenPrimes.test_gen_primes_997" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_gen_primes.TestGenPrimes.test_gen_primes_5" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test for test_gen_primes.TestGenPrimes" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test for test_gen_primes.TestGen_primes_1" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_ps4a.test_getWordScore" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -602,62 +683,139 @@
       <option name="project" value="LOCAL" />
       <updated>1499454158889</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Init file from pset 4">
+      <created>1499454181716</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1499454181717</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Impl calculate word score.">
+      <created>1499454675206</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1499454675206</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add example word file.">
+      <created>1499454715893</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1499454715893</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Return an updated copy of the input hand (a dict), by using dict.copy().">
+      <created>1499507556584</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1499507556584</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Impl is_valid_word.">
+      <created>1499508658753</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1499508658753</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Impl play_hand().">
+      <created>1499513315871</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1499513315871</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Impl playGame()">
+      <created>1499521900505</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1499521900505</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Impl 2nd version of ps4, which allow user to choose if a computer or user to play the game.">
+      <created>1499524459617</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1499524459617</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Week 5 oop finger exercise. Impl len() and intersect() of intSet.">
+      <created>1499530860401</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1499530860401</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Impl update() hand, in OOP way.">
+      <created>1499605544028</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1499605544028</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Impl prime number generator using yield.">
+      <created>1499609239656</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1499609239656</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 53m 43s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    <history-entry file="py_test_for_test_gen_primes_TestGenPrimes - 2017.07.09 at 16h 04m 16s.xml">
+      <configuration name="py.test for test_gen_primes.TestGenPrimes" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 56m 43s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    <history-entry file="py_test_for_test_gen_primes_TestGenPrimes_test_gen_primes_5 - 2017.07.09 at 16h 05m 10s.xml">
+      <configuration name="py.test for test_gen_primes.TestGenPrimes.test_gen_primes_5" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 15h 56m 54s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    <history-entry file="py_test_for_test_gen_primes_TestGenPrimes_test_gen_primes_997 - 2017.07.09 at 16h 06m 40s.xml">
+      <configuration name="py.test for test_gen_primes.TestGenPrimes.test_gen_primes_997" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 03m 20s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    <history-entry file="py_test_for_test_gen_primes_TestGen_primes_1 - 2017.07.09 at 15h 59m 53s.xml">
+      <configuration name="py.test for test_gen_primes.TestGen_primes_1" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 05m 29s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    <history-entry file="py_test_for_test_ps4a_test_getWordScore - 2017.07.08 at 12h 03m 55s.xml">
+      <configuration name="py.test for test_ps4a.test_getWordScore" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 06m 05s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    <history-entry file="py_test_for_test_ps4a_test_isValidWord - 2017.07.08 at 12h 00m 44s.xml">
+      <configuration name="py.test for test_ps4a.test_isValidWord" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 06m 42s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    <history-entry file="py_test_for_test_ps4a_test_updateHand - 2017.07.08 at 11h 50m 55s.xml">
+      <configuration name="py.test for test_ps4a.test_updateHand" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm - 2017.07.02 at 16h 08m 08s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm" configurationId="tests" />
+    <history-entry file="py_test_in_test_ps4a_py - 2017.07.08 at 12h 01m 42s.xml">
+      <configuration name="py.test in test_ps4a.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_for_midterm_test_TestMidTerm_test_general_poly_base_2 - 2017.07.02 at 15h 31m 36s.xml">
-      <configuration name="py.test for midterm_test.TestMidTerm.test_general_poly_base_2" configurationId="tests" />
+    <history-entry file="py_test_in_test_ps4a_py - 2017.07.08 at 12h 02m 03s.xml">
+      <configuration name="py.test in test_ps4a.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_ps4a_py - 2017.07.07 at 20h 54m 11s.xml">
+    <history-entry file="py_test_in_test_ps4a_py - 2017.07.08 at 12h 02m 50s.xml">
       <configuration name="py.test in test_ps4a.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2360515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25480154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36619717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34955186" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42891565" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19462228" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2360515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.386747" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="100" width="1240" height="700" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -691,8 +849,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finger exercise on a number guess game." />
-    <MESSAGE value="Add w2 p1 solution, i.e. annual balance calculation." />
     <MESSAGE value="Add w2 p2 solution, i.e. annual balance calculation with fixed monthly payment." />
     <MESSAGE value="Add w2 p3 solution, i.e. annual balance calculation with fixed monthly payment, with bisection search." />
     <MESSAGE value="Recursively check if a character is in a string." />
@@ -707,83 +863,24 @@
     <MESSAGE value="Impl revert_dict." />
     <MESSAGE value="Impl general_poly." />
     <MESSAGE value="Impl is_list_permutation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Impl is_list_permutation." />
+    <MESSAGE value="Init file from pset 4" />
+    <MESSAGE value="Impl calculate word score." />
+    <MESSAGE value="Add example word file." />
+    <MESSAGE value="Return an updated copy of the input hand (a dict), by using dict.copy()." />
+    <MESSAGE value="Impl is_valid_word." />
+    <MESSAGE value="Impl play_hand()." />
+    <MESSAGE value="Impl playGame()" />
+    <MESSAGE value="Impl 2nd version of ps4, which allow user to choose if a computer or user to play the game." />
+    <MESSAGE value="Week 5 oop finger exercise. Impl len() and intersect() of intSet." />
+    <MESSAGE value="Impl update() hand, in OOP way." />
+    <MESSAGE value="Impl prime number generator using yield." />
+    <option name="LAST_COMMIT_MESSAGE" value="Impl prime number generator using yield." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../moocs-algorithms-1/assignment-1-inversions/tests/test_inversion_counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1_python_basics/solution/p2_sub_str_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1_python_basics/tests/test_w1P2Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1_python_basics/solution/p3_longest_ordered_sub_str.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1_python_basics/tests/test_w1P3Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../moocs-algorithms-1/assignment-1-inversions/solution/inversion_counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../moocs-algorithms-1/assignment-1-inversions/tests/test_inversion_counter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1_python_basics/solution/p2_sub_str_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1_python_basics/tests/test_w1P2Solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="68" lean-forward="false" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/w1_python_basics/solution/p3_longest_ordered_sub_str.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w1_python_basics/tests/test_w1P3Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1017,7 +1114,7 @@
         <state relative-caret-position="30">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1027,7 +1124,7 @@
         <state relative-caret-position="45">
           <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1040,14 +1137,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/just_run/just_run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/words.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1056,13 +1145,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/test_ps4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2267">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/just_run/just_run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w5_oop/solutions/IntSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="63" lean-forward="false" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/ps4b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="124" column="27" lean-forward="false" selection-start-line="124" selection-start-column="27" selection-end-line="124" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/w4_good_programming_practices/solution/ps4a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="14">
+          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="189" selection-end-column="27" />
           <folding>
             <element signature="e#22#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w5_oop/solutions/hand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="37" column="28" lean-forward="false" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w5_oop/tests/test_gen_primes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w5_oop/solutions/PrimeNumGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w5_oop/solutions/story.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w5_oop/solutions/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4545">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.1/python_stubs/18649790/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="4740" column="13" lean-forward="false" selection-start-line="4740" selection-start-column="8" selection-end-line="4740" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w5_oop/solutions/ps6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
