@@ -262,6 +262,15 @@ class CiphertextMessage(Message):
         return best_guess_shift, decrypted_msg
 
 
+def decrypt_story():
+    """
+    Decrypts an story.
+    :return: the shift used to decrypt the story and the decrypted story.
+    """
+    encrypted_story_string = get_story_string()
+    decrypter = CiphertextMessage(encrypted_story_string)
+    return decrypter.decrypt_message()
+
 #Example test case (PlaintextMessage)
 plaintext = PlaintextMessage('hello', 2)
 print('Expected Output: jgnnq')
