@@ -43,3 +43,17 @@ class Bag(Container):
         except KeyError:
             return 0
 
+    def __add__(self, other):
+        if isinstance(other, Bag):
+            union = Bag()
+            for k, v in self.vals.items():
+                union.vals[k] = v
+            for k, v in other.vals.items():
+                if k in union.vals.keys():
+                    union.vals[k] += v
+                else:
+                    union.vals[k] = v
+            return union
+        else:
+            return self
+

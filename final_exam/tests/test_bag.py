@@ -24,3 +24,16 @@ class TestBag(TestCase):
 
         count = bag.count(4)
         self.assertEqual(3, count)
+
+    def test_union(self):
+        a = Bag.Bag()
+        a.insert(4)
+        a.insert(3)
+        b = Bag.Bag()
+        b.insert(4)
+
+        union = a + b
+
+        self.assertTrue('3:1' in union.__str__())
+        self.assertTrue('4:2' in union.__str__())
+
