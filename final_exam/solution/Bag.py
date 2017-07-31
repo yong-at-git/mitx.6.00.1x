@@ -57,3 +57,24 @@ class Bag(Container):
         else:
             return self
 
+
+class ASet(Container):
+    def __init__(self):
+        Container.__init__(self)
+
+    def remove(self, e):
+        """assumes e is hashable
+           removes e from self"""
+        try:
+            del self.vals[e]
+        except KeyError:
+            return
+
+    def is_in(self, e):
+        """assumes e is hashable
+           returns True if e has been inserted in self and
+           not subsequently removed, and False otherwise."""
+        try:
+            return self.vals[e] > 0
+        except KeyError:
+            return False
